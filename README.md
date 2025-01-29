@@ -1,3 +1,4 @@
+Daily Task Planner
 Introduction:
 The daily task planner is a command line interface (CLI) application that allows users to manage their daily tasks. This CLI application is perfect for anyone who wants a simple and easy to manage their daily tasks without the complexity of a full-fledged project management tool. This application supports the adding new tasks with description and optional dates, viewing tasks with optional filtering by date, marking tasks as completed and deleting tasks. The current implementation assumes that all tasks are uniquely identified by their ID.
 All the tasks are saved in a JSON file, so they stay even after users close the application. This makes it easy to resume task management whenever needed.
